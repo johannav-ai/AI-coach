@@ -89,8 +89,10 @@ AI developers, pilot companies, and continuous user feedback
 
 ## Acknowledgments  
 
+*[DEMO](https://claude.ai/public/artifacts/e6f7be73-a639-4b83-95b4-48000605c4d0)
+
+* [Claude](https://claude.ai/) – Claude  
 * [OpenAI](https://openai.com/) – ChatGPT and documentation  
 * [Microsoft Copilot](https://learn.microsoft.com/en-us/microsoft-365/copilot/) – Copilot use cases and guides  
-* [Anthropic](https://www.anthropic.com/) – Claude  
 * Previous examples and community projects in the AI Idea Gallery  
 * Inspiration from discussions on workplace AI adoption challenges  
