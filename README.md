@@ -1,4 +1,4 @@
-# AI Coach – Helping Employees Use AI  
+# AI Coach – Helping employees use AI  
 
 Final project for the Building AI course*  
 
